@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radovan</h1>
-<h3 align="center">A software engineering student & teaching associate @ Faculty of Science, University of Kragujevac</h3>
+<h3 align="center">A Software Engineering Student & Teaching Associate @ Faculty of Science, University of Kragujevac</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashko73&label=Profile%20views&color=0e75b6&style=flat" alt="drashko73" /> </p>
 
