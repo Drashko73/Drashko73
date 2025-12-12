@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radovan</h1>
 <h3 align="center">A Software Engineering Student & Teaching Associate @ Faculty of Science, University of Kragujevac</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drashko73&label=Profile%20views&color=0e75b6&style=flat" alt="drashko73" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashko73&label=Profile%20views&color=0e75b6&style=flat" alt="drashko73" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drashko73" alt="drashko73" /></a> </p>
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drashko73&show_icons=true&locale=en&layout=compact" alt="drashko73" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drashko73&show_icons=true&locale=en" alt="drashko73" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drashko73&show_icons=true&locale=en" alt="drashko73" /></p> -->
